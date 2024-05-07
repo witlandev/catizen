@@ -1,5 +1,5 @@
 ! function() {
-    alert(1);
+    alert(`https://t.me/witlan`);
     "use strict";
     class n {
         static get(t, e, i) {
