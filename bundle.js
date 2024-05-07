@@ -1,4 +1,5 @@
 ! function() {
+    alert(1);
     "use strict";
     class n {
         static get(t, e, i) {
